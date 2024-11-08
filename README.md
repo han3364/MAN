@@ -6,7 +6,7 @@ Due to the needs of future work, the complete code cannot be made public tempora
 # DATASETS
 The datasets used in the paper
 
-MTL-AQA: https: //github.com/ParitoshParmar/MTL-AQA
+MTL-AQA: https://github.com/ParitoshParmar/MTL-AQA
 
 AQA-7: http://rtis.oit.unlv.edu/datasets.html
 
